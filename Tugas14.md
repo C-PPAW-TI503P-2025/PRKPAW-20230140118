@@ -1,5 +1,6 @@
 ### Tampilan Dashboard Monitoring IoT
-![Tampilan Dashboard Monitoring IoT](![awsedfghjkl](https://github.com/user-attachments/assets/c57927c6-e4e3-4ed2-8180-4e63cba2d752))
+(![Dashboard_IoT](https://github.com/user-attachments/assets/970e3005-2842-4909-88b8-49c6c70269ff)
+)
 
 
 ### Tabel Database Sensorlog
